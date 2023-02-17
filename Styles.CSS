@@ -1,4 +1,4 @@
-h1 {
+h1{
 font-size: 40px;
 color:darkcyan;
 font-style:italic;
@@ -7,7 +7,7 @@ font-family: 'Roboto Slab', serif;
 }
 
 
-p1 p2 p3 {
+p1 {
 /* google font fam, size, line height, change the coler */
 font-family: 'Roboto Slab', serif;
 font-size: 25px;
