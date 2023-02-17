@@ -7,11 +7,11 @@ font-family: 'Roboto Slab', serif;
 }
 
 
-p1 {
+p2 {
 /* google font fam, size, line height, change the coler */
 font-family: 'Roboto Slab', serif;
 font-size: 25px;
 line-height: 60px;
-color:darkslategray;
+color:rgb(48, 155, 155);
 
 }
