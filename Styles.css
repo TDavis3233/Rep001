@@ -1,5 +1,5 @@
 body {
-background-color: beige;
+background-color:burlywood;
 
 }
 
@@ -29,3 +29,13 @@ color:rgb(34, 13, 129);
 font-style: normal;
 }
 
+.buttons-links{
+border-style:solid;
+border-color: cornsilk;
+background-color: cornsilk;
+color: coral;
+border-width:2px;
+
+
+
+}
