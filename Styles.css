@@ -10,7 +10,7 @@ h1 {
     font-family: 'Roboto Slab', serif;
     text-decoration: underline;
     border-style:solid;
-    border-color:darkcyan;
+    
 
     
     }
@@ -36,8 +36,8 @@ font-style: normal;
 
 .buttons-links{
 border-style:solid;
-border-color:burlywood;
-background-color:burlywood;
+border-color:antiquewhite;
+background-color:antiquewhite;
 color: coral;
 border-width:2px;
 border-radius: 80%;
