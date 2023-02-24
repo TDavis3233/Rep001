@@ -35,7 +35,7 @@ color:rgb(34, 13, 129);
 font-style: normal;
 }
 
-.buttons-links{
+.buttons-links {
 border-style:solid;
 border-color:antiquewhite;
 background-color:antiquewhite;
@@ -45,7 +45,7 @@ border-radius: 80%;
 padding: 5px;
 text-decoration: none;
 
-.top_banner{
+.top_banner {
     height: 240px;
     text-align: center;
     padding-top: 110px;
@@ -58,7 +58,7 @@ text-decoration: none;
     
 }
 
-.main-content{
+.main-content {
 width: 800px;
 margin: 0 auto;
 padding: 0 10px;
