@@ -4,7 +4,7 @@ background-color: beige;
 }
 
 
-h {
+h1 {
 font-size: 40px;
 color:darkcyan;
 font-style:italic;
@@ -13,7 +13,7 @@ font-family: 'Roboto Slab', serif;
 }
 
 
-p {
+p2 {
 /* google font fam, size, line height, change the coler */
 font-family: 'Roboto Slab', serif;
 font-size: 25px;
