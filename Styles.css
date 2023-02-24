@@ -8,8 +8,9 @@ h1 {
     color:darkred;
     font-style:italic
     font-family: 'Roboto Slab', serif;
-    text-decoration: underline;
+    text-decoration: none;
     border-style:solid;
+    
     
 
     
@@ -48,6 +49,7 @@ text-decoration: none;
     height: 240px;
     text-align: center;
     padding-top: 110px;
+    background-color:antiquewhite;
     
 
     
