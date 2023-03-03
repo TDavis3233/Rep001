@@ -4,16 +4,27 @@ background-color:floralwhite;
 }
 
 nav {
+padding: 20px;
 
 
 
+}
+
+
+.navlinks {
+list-style-type: none;
+
+}
+
+.navlinks li {
+display: inline;
 
 }
 
 h1 {
     font-size: 56px;
     color:darkred;
-    font-style:italic
+    font-style:italic;
     font-family: 'Roboto Slab', serif;
     text-decoration: none;
     border-style:solid;
