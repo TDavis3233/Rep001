@@ -13,7 +13,9 @@ background-color:floralwhite;
 nav {
 padding: 20px;
 width: 100%;
-background-color:ghostwhite;
+background-color:floralwhite;
+margin: auto;
+position: fixed;
 
 }
 
@@ -85,11 +87,11 @@ text-decoration: none;}
     padding-bottom: 10px;
     background-color:antiquewhite;
     border-style:solid;
-    border-color:antiquewhite;
+    border-color:darkred;
     border-width:10px;
     border-radius: 20px;
-    
-
+    background-image: url("https://cdn.pixabay.com/photo/2022/06/06/18/19/ocean-7246676__340.jpg");
+    background-size:cover;
     
 }
 
