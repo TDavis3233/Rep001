@@ -12,9 +12,7 @@ background-color:floralwhite;
 
 nav {
 padding: 20px;
-text-align: center;
-width: 200px;
-position:fixed;
+
 
 }
 
@@ -23,7 +21,7 @@ position:fixed;
 list-style-type: none;
 margin: 0 auto;
 padding:0;
-width: 200px;
+width: 250px;
 text-align: center;
 }
 
