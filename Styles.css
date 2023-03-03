@@ -12,11 +12,9 @@ background-color:floralwhite;
 
 nav {
 padding: 20px;
-text-align: center;
 width: 100%;
 position:fixed;
-margin: 0 auto;
-background-color: aliceblue;
+background-color:ghostwhite;
 
 }
 
@@ -25,7 +23,6 @@ background-color: aliceblue;
 list-style-type: none;
 margin: 0 auto;
 padding:0;
-width: 200px;
 text-align: center;
 }
 
@@ -90,8 +87,8 @@ text-decoration: none;}
     background-color:antiquewhite;
     border-style:solid;
     border-color:antiquewhite;
-    border-width:45px;
-    border-radius: 100px;
+    border-width:10px;
+    border-radius: 20px;
     
 
     
