@@ -37,7 +37,7 @@ font-style: normal;
 
 .buttons-links {
 border-style:solid;
-border-color:antiquewhite;
+border-color:coral;
 background-color:antiquewhite;
 color: coral;
 border-width: 4px;
@@ -45,9 +45,9 @@ padding: 5px;
 text-decoration: none;}
 
 .top_banner {
-    height: 240px;
+    height: 100px;
     text-align: center;
-    padding-top: 110px;
+    padding-top: 10px;
     background-color:antiquewhite;
     border-style:solid;
     border-color:antiquewhite;
@@ -69,6 +69,7 @@ background-color:ghostwhite;
 }
 
 .footer{
+    height: 70px;
     text-align: center;
     margin: 10 0;
     padding: 10 0;
