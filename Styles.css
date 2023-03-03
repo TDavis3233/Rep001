@@ -83,11 +83,10 @@ text-decoration: none;}
 .top_banner {
     
     text-align: center;
-    padding-top: 10px;
+    padding-top: 100px;
     padding-bottom: 10px;
     background-color:antiquewhite;
-    border-style:solid;
-    border-color:darkred;
+    width:100%;
     border-width:10px;
     border-radius: 20px;
     background-image: url("https://cdn.pixabay.com/photo/2022/06/06/18/19/ocean-7246676__340.jpg");
