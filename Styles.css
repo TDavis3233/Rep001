@@ -97,12 +97,13 @@ text-decoration: none;}
 .main-content {
 width: 800px;
 margin: 0 auto;
-padding: 0 10px;
+padding: 25 10px;
 border-style: solid;
 border-radius:20px;
 border-width:10px;
 border-color:azure;
 background-color:ghostwhite;
+text-align: center;
 }
 
 .footer{
