@@ -58,6 +58,7 @@ color:darkcyan;
 font-style:italic;
 font-family: 'Roboto Slab', serif;
 text-decoration: underline;
+text-align:center;
 
 }
 
@@ -69,6 +70,8 @@ font-size: 25px;
 line-height: 60px;
 color:rgb(34, 13, 129);
 font-style: normal;
+text-align: center;
+margin: auto;
 }
 
 .buttons-links {
@@ -124,6 +127,15 @@ text-align: center;
             color:floralwhite;
             
             }
+
+            h2, h3, h4 {
+                
+                color:lightcyan;
+                
+                
+                
+                
+                }   
 
         
 
