@@ -52,7 +52,7 @@ h1 {
     
     }
     
-h2 h3 h4 {
+h2, h3, h4 {
 font-size: 40px;
 color:darkcyan;
 font-style:italic;
@@ -63,7 +63,7 @@ text-align:center;
 }
 
 
-p {
+p2, p3, p4 {
 /* google font fam, size, line height, change the coler */
 font-family: 'Roboto Slab', serif;
 font-size: 25px;
